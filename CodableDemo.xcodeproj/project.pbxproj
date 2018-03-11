@@ -12,7 +12,7 @@
 		0BCFE5812054FC2200919F92 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0BCFE57F2054FC2200919F92 /* Main.storyboard */; };
 		0BCFE5832054FC2200919F92 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0BCFE5822054FC2200919F92 /* Assets.xcassets */; };
 		0BCFE5862054FC2200919F92 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0BCFE5842054FC2200919F92 /* LaunchScreen.storyboard */; };
-		0BCFE58E2054FD7E00919F92 /* Appartment.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0BCFE58D2054FD7E00919F92 /* Appartment.swift */; };
+		0BCFE58E2054FD7E00919F92 /* Apartment.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0BCFE58D2054FD7E00919F92 /* Apartment.swift */; };
 		0BCFE5902054FDBE00919F92 /* Address.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0BCFE58F2054FDBE00919F92 /* Address.swift */; };
 /* End PBXBuildFile section */
 
@@ -24,7 +24,7 @@
 		0BCFE5822054FC2200919F92 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		0BCFE5852054FC2200919F92 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		0BCFE5872054FC2200919F92 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		0BCFE58D2054FD7E00919F92 /* Appartment.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Appartment.swift; sourceTree = "<group>"; };
+		0BCFE58D2054FD7E00919F92 /* Apartment.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Apartment.swift; sourceTree = "<group>"; };
 		0BCFE58F2054FDBE00919F92 /* Address.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Address.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -73,7 +73,7 @@
 			isa = PBXGroup;
 			children = (
 				0BCFE58F2054FDBE00919F92 /* Address.swift */,
-				0BCFE58D2054FD7E00919F92 /* Appartment.swift */,
+				0BCFE58D2054FD7E00919F92 /* Apartment.swift */,
 			);
 			path = Model;
 			sourceTree = "<group>";
@@ -150,7 +150,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				0BCFE58E2054FD7E00919F92 /* Appartment.swift in Sources */,
+				0BCFE58E2054FD7E00919F92 /* Apartment.swift in Sources */,
 				0BCFE57E2054FC2200919F92 /* ViewController.swift in Sources */,
 				0BCFE5902054FDBE00919F92 /* Address.swift in Sources */,
 				0BCFE57C2054FC2200919F92 /* AppDelegate.swift in Sources */,
