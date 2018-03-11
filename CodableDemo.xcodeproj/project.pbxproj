@@ -58,16 +58,24 @@
 		0BCFE57A2054FC2200919F92 /* CodableDemo */ = {
 			isa = PBXGroup;
 			children = (
+				0BCFE5912054FE3300919F92 /* Model */,
 				0BCFE57B2054FC2200919F92 /* AppDelegate.swift */,
 				0BCFE57D2054FC2200919F92 /* ViewController.swift */,
 				0BCFE57F2054FC2200919F92 /* Main.storyboard */,
 				0BCFE5822054FC2200919F92 /* Assets.xcassets */,
 				0BCFE5842054FC2200919F92 /* LaunchScreen.storyboard */,
 				0BCFE5872054FC2200919F92 /* Info.plist */,
-				0BCFE58D2054FD7E00919F92 /* Appartment.swift */,
-				0BCFE58F2054FDBE00919F92 /* Address.swift */,
 			);
 			path = CodableDemo;
+			sourceTree = "<group>";
+		};
+		0BCFE5912054FE3300919F92 /* Model */ = {
+			isa = PBXGroup;
+			children = (
+				0BCFE58F2054FDBE00919F92 /* Address.swift */,
+				0BCFE58D2054FD7E00919F92 /* Appartment.swift */,
+			);
+			path = Model;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
